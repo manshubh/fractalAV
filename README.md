@@ -15,13 +15,12 @@ Overall Error = Lambda1 x RMSE error of volumes + Lambda2 x RMSE error of prices
 
 
 # Data
-## Data Dictionary:
 ## Variable	Definition
--ID : Unique_transaction_ID
--Item_ID  :	Unique ID of the product
--Datetime :	Date of Sale
--Price  :	Median Price at Sale on that day(Target Variable_1)
--Number_Of_Sales  :	Total Item Sold on that day(Target Variable_2)
--Category_1 :	Unordered Masked feature
--Category_2 :	Ordered Masked feature
--Category_3 :	Binary Masked feature
+*ID : Unique_transaction_ID
+*Item_ID  :	Unique ID of the product
+*Datetime :	Date of Sale
+*Price  :	Median Price at Sale on that day(Target Variable_1)
+*Number_Of_Sales  :	Total Item Sold on that day(Target Variable_2)
+*Category_1 :	Unordered Masked feature
+*Category_2 :	Ordered Masked feature
+*Category_3 :	Binary Masked feature
