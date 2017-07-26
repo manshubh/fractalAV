@@ -1,5 +1,5 @@
 # Fractal Analytics Vidhya Hackathon
-Fractal Analytics Hiring Hackathon 2017 - RMSE Score : 0.711622
+Fractal Analytics Hiring Hackathon 2017 - RMSE Score : 0.711622 (Top 100)
 
 # Problem Statement
 Welcome to Antallagma - a digital exchange for trading goods. Antallagma started its operations 5 years back and has supported more than a million transactions till date. The Antallagma platform enables working of a traditional exchange on an online portal. 
